@@ -1,6 +1,6 @@
 ## ***IIT Kharagpur Data Science Hackathon 2025 (Semi-Finalist)***
 
-## **Related to Multi-Class Classification for Research Paper Categorization**
+### **Related to Multi-Class Classification for Research Paper Categorization**
 
 ### **Objective -** 
 This hackathon challenges participants to develop an AI-driven system using the Pathway Framework to streamline the process of conference selection and research paper evaluation. The system will harness advanced language models, comparative analysis techniques, and streaming data frameworks to automate and optimize these tasks.
