@@ -1,4 +1,4 @@
-# ***IIT Kharagpur Data Science Hackathon 2025 (Semi-Finalist)***
+## ***IIT Kharagpur Data Science Hackathon 2025 (Semi-Finalist)***
 
 ## **Related to Multi-Class Classification for Research Paper Categorization**
 
